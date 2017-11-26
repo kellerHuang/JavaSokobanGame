@@ -1,0 +1,45 @@
+Scrum Roles:
+    Week 8:
+        Scrum Master	Dan
+        Product Owner	Evan
+        Developer	    Jackson
+        Developer	    Keller
+        Developer	    Lilac
+    Week 9:
+        Scrum Master	Lilac
+        Product Owner	Dan
+        Developer	    Evan
+        Developer	    Jackson
+        Tester	        Keller
+    Week 10:
+        Scrum Master	Keller
+        Product Owner	Lilac
+        Developer	    Dan
+        Developer	    Evan
+        Tester	        Jackson    
+    Week 11:
+        Scrum Master	Jackson
+        Product Owner	Keller
+        Developer	    Lilac
+        Developer	    Dan
+        Tester	        Evan  
+    Week 12:
+        Scrum Master	Evan
+        Product Owner	Jackson
+        Developer	    Keller
+        Developer	    Lilac
+        Tester	        Dan  
+Initial Questions:
+    Who are the intended users: are they novice, intermediate or expert, or all sorts of users (do we even understand what this means?)
+    
+    What sort of features are basic to the application (i.e. needed by every user)?
+        - Graphical display : Map, Boxes, Player, Goal squares
+        - Movement controls : arrows?
+    What sort of features are needed by different categories of users: how can the interface handle seemingly different requirements?
+    
+    What sort of help or hints (if any) should the system be able to provide to users (and how and when is this help given)?
+        - Possibly implement hints to finish a puzzle(highlighted squares? string message hints?)
+        - Initial tutorial style hints?
+    What platforms with what form factors is the system designed to run on?
+    
+
